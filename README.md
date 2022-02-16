@@ -20,6 +20,8 @@ Algum fato do primeiro DEV;
 
 Faço crochê desde os 7 anos de idade.
 Sou formanda em administração pela Universidade Federal Rural do Rio de Janeiro
+
+Me mudei para Teresópolis/RJ a um mês e ainda não me acostumei com o frio.
 ```
 
 Faça um ``commit`` e um ``push``. Volte para a branch ``master`` e repita o processo com uma branch ``segundo_fato`` e ``terceiro_fato``. Lembre-se de editar todos os dados possíveis de acordo com suas informações.
